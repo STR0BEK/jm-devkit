@@ -24,8 +24,6 @@ ex) /plugin -> Discover탭 -> 검색 -> 플러그인 선택 -> 설치
 
 - 세션을 다시 시작하면 적용된다.
 - 터미널에서는 앞에 `claude` 를 붙이고 `/` 를 뺀다. 예: `claude plugin install jm-project-kit@jm-devkit`
-- private 저장소이면 git 인증이 되어 있어야 한다.
-- push 하기 전에 로컬 경로로 먼저 확인할 수 있다. `/plugin marketplace add D:\dev\jm-devkit`
 
 ## jm-project-kit 사용 순서
 
