@@ -11,12 +11,15 @@ Claude Code 플러그인 마켓플레이스다. 새 프로젝트를 시작할 �
 
 ## 설치
 
-마켓플레이스를 한 번 등록하고, 필요한 플러그인을 설치한다.
+마켓플레이스를 한 번 등록하고, 필요한 플러그인을 설치한다
 
 ```
-/plugin marketplace add <github-id>/<저장소 이름>
-/plugin install jm-project-kit@jm-devkit
-/plugin install web-lsp@jm-devkit
+마켓플레이스 등록
+/plugin marketplace add STR0BEK/jm-devkit
+플러그인 설치
+ex) /plugin install jm-project-kit@jm-devkit
+ex) /plugin install web-lsp@jm-devkit
+ex) /plugin -> Discover탭 -> 검색 -> 플러그인 선택 -> 설치
 ```
 
 - 세션을 다시 시작하면 적용된다.
