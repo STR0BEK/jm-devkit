@@ -1,0 +1,5 @@
+{
+  "name": "web-lsp",
+  "description": "HTML/CSS/JSON language servers",
+  "version": "0.1.0"
+}

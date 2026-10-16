@@ -1,0 +1,5 @@
+{
+  "name": "jm-project-kit",
+  "description": "프로젝트 시작과 유지 보수 명령 모음: /project-init, /agent-update, /lsp-init, /mcp-init, /mcp-update",
+  "version": "0.1.0"
+}

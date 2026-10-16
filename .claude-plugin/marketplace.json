@@ -1,0 +1,16 @@
+{
+  "name": "jm-devkit",
+  "owner": { "name": "jang-min" },
+  "plugins": [
+    {
+      "name": "jm-project-kit",
+      "source": "./jm-project-kit",
+      "description": "프로젝트 시작/유지 보수 명령: /project-init, /agent-update, /lsp-init, /mcp-init, /mcp-update"
+    },
+    {
+      "name": "web-lsp",
+      "source": "./web-lsp",
+      "description": "HTML/CSS/JSON language servers"
+    }
+  ]
+}
